@@ -35,10 +35,6 @@
 </div>
 
  ##
-   
-~~~c
-printf("Hello World, Seja Bem Vindo"); 
-~~~
 
 ### Interesses:
 
@@ -48,6 +44,3 @@ printf("Hello World, Seja Bem Vindo");
 * Linux
 * Games
 * POO
-
-
-[mais exemplos](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
