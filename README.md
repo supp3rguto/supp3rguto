@@ -40,4 +40,4 @@
 * Web
 * Linux
 * Games
-* POO
+* P.O.O (Programação Orientada a Objeto)
