@@ -42,9 +42,11 @@ printf("Hello World, Seja Bem Vindo");
 
 ### Interesses:
 
-* Desenvolvimento Android
+* Desenvolvimento Mobile
+* Bug Bounty
 * Web
 * Linux
+* Games
 * POO
 
 
