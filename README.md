@@ -1,10 +1,12 @@
 <h1 align="center">
-    Oi, eu sou o 
-    <a href="#">AugustoOBarbosa</a>
+    Saudações, me chamo 
+    <a href="#">Augusto Ortigoso Barbosa</a>
   </h1>
   
    <p align="center">
   Atualmente sou estudante do Bacharelado em Sistemas De Informação pela UFU (Universidade Federal de Uberlândia), minha meta é me especializar nas diversas linguagens de programação principalmente Java, SQL, Python e C++, que são as linguagens mais exigidas e usadas no atual mercado de trabalho.
+    
+    I am currently a student of the Bachelor of Information Systems at UFU (Federal University of Uberlândia), my goal is to specialize in the various programming languages mainly Java, SQL, Python and C ++, which are the most demanded and used languages in the current job market .
   </p>
 
 <div align="center" style="display: inline_block"> 
