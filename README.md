@@ -8,8 +8,6 @@
   </p>
 
 <div align="left" style="display: inline_block"> 
-    
-    </h1>
   
    <p align="right">
     
