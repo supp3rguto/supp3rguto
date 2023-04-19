@@ -27,7 +27,7 @@
   
   <br clear="both">
 
-<div align="left">  
+<div align="center">  
   <img width="41%" height="150px" src="https://github-readme-stats.vercel.app/api?username=supp3rguto&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=9932CC&bg_color=0a0c10" alt="Luiz Octavio Sacchetin github stats" /> 
   <img width="41%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supp3rguto&layout=compact&hide_border=true&title_color=8A2BE2&text_color=9932CC&bg_color=0a0c10" />
 </div>
