@@ -11,7 +11,7 @@
   
    <p align="right">
     
-<br />EN: I am currently a student of the Bachelor of Information Systems at UFU (Federal University of Uberlândia), my goal is to specialize in the various programming languages mainly Java, SQL, Python and C#, which are the most demanded and used languages in the current job market .
+    EN: I am currently a student of the Bachelor of Information Systems at UFU (Federal University of Uberlândia), my goal is to specialize in the various programming languages mainly Java, SQL, Python and C#, which are the most demanded and used languages in the current job market .
   </p>
 
 <div align="right" style="display: inline_block"> 
