@@ -21,13 +21,17 @@ EN: I am currently a student of the Bachelor of Information Systems at UFU (Fede
   <img align="left" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg">
   <img align="left" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg">
 </div>
-  
-  <div align="right" > 
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "#"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target=" target="_blank"><https://www.linkedin.com/in/augusto-barbosa-769602194/>  
+ 
+   <div align="right">
+  <a href="https://www.linkedin.com/in/augustobarbosa/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.gmail.com/augustoortigosobarbosa/" target="_blank">
+    <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)" width="52" height="40" alt="instagram logo"  />
+  </a>
+      
 </div>
-  
+      
   ##
   
   <br clear="both">
