@@ -44,11 +44,11 @@ EN: I am currently a student of the Bachelor of Information Systems at UFU (Fede
   
   ##
 
-● Interesses(Tags):
+● Interesses (Tags):
 
 * Desenvolvimento Mobile
 * Bug Bounty
 * Web
 * Linux
 * Games
-* P.O.O (Programação Orientada a Objeto)
+* Programação Orientada a Objeto
