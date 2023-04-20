@@ -43,7 +43,7 @@ EN: I am currently a student of the Bachelor of Information Systems at UFU (Fede
 
   ##
   
-  ### Interesses:
+  ### INTERESSES (TAGS):
 
 - Web
 - Linux
