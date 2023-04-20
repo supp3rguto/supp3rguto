@@ -23,11 +23,11 @@ EN: I am currently a student of the Bachelor of Information Systems at UFU (Fede
 </div>
  
    <div align="right">
-  <a href="https://www.linkedin.com/in/augustobarbosa/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/augusto-barbosa-769602194/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  />
   </a>
   <a href="https://www.gmail.com/augustoortigosobarbosa/" target="_blank">
-    <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)" width="52" height="40" alt="instagram logo"  />
+    <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)"alt="instagram logo"  />
   </a>
       
 </div>
