@@ -4,12 +4,12 @@
   </h1>
   
    <p align="left">
-    PT: Atualmente sou estudante do Bacharelado em Sistemas De Informação pela UFU (Universidade Federal de Uberlândia), minha meta é me especializar nas diversas linguagens de programação, principalmente Java, SQL, Python e C#, que são as mais exigidas e usadas no atual mercado de trabalho.
+PT: Atualmente sou estudante do Bacharelado em Sistemas De Informação pela UFU (Universidade Federal de Uberlândia), minha meta é me especializar nas diversas linguagens de programação, principalmente Java, SQL, Python e C#, que são as mais exigidas e usadas no atual mercado de trabalho.
    
    <p align="right"> 
-    EN: I am currently a student of the Bachelor of Information Systems at UFU (Federal University of Uberlândia), my goal is to specialize in the various programming languages, mainly Java, SQL, Python and C#, which are the most demanded and used in the current job market.
+EN: I am currently a student of the Bachelor of Information Systems at UFU (Federal University of Uberlândia), my goal is to specialize in the various programming languages, mainly Java, SQL, Python and C#, which are the most demanded and used in the current job market.
 
-<div align="right" style="display: inline_block"> 
+
 
  </div > 
 
