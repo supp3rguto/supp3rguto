@@ -41,10 +41,9 @@ EN: I am currently a student of the Bachelor of Information Systems at UFU (Fede
   <img width="41%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supp3rguto&layout=compact&hide_border=true&title_color=8A2BE2&text_color=9932CC&bg_color=0a0c10" />
 </div>
 
-  
   ##
-
-- Interesses (Tags):
+  
+  ### Interesses:
 
 - Web
 - Linux
