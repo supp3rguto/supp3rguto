@@ -1,5 +1,5 @@
 <h1 align="center">
-    Olá, me chamo 
+    Welcome!Eu sou (I am):
     <a href="#">Augusto Ortigoso Barbosa</a>
   </h1>
   
@@ -46,9 +46,9 @@ EN: I am currently a student of the Bachelor of Information Systems at UFU (Fede
 
 ● Interesses (Tags):
 
-    - Desenvolvimento Mobile
-    - Bug Bounty
-    - Web
-    - Linux
-    - Games
-    - Programação Orientada a Objeto
+- Desenvolvimento Mobile
+- Bug Bounty
+- Web
+- Linux
+- Games
+- Programação Orientada a Objeto
