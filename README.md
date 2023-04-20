@@ -6,7 +6,7 @@
    <p align="left">
 PT: Atualmente sou estudante do Bacharelado em Sistemas De Informação pela UFU (Universidade Federal de Uberlândia), minha meta é me especializar nas diversas linguagens de programação, principalmente Java, SQL, Python e C#, que são as mais exigidas e usadas no atual mercado de trabalho.
    
-    <div align="left">  
+ 
   <img width="41%" height="150px" src="https://github-readme-stats.vercel.app/api?username=supp3rguto&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=9932CC&bg_color=0a0c10" alt="Luiz Octavio Sacchetin github stats" /> 
     
    <p align="right"> 
