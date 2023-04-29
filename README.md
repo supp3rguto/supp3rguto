@@ -1,13 +1,9 @@
 <h1 align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Welcome!;Bem+vindo!" alt="Typing SVG" /></a></h1>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=117&height=40&lines=Welcome!;Bem+Vindo!" alt="Typing SVG" /></a><h1>
   
-  |introdução |introduction |
-  
-   <p align="left">
-PT: Atualmente sou estudante do Bacharelado em Sistemas De Informação pela UFU (Universidade Federal de Uberlândia), minha meta é me especializar nas diversas linguagens de programação, principalmente Java, SQL, Python e C#, que são as mais exigidas e usadas no atual mercado de trabalho.
-    
-   <p align="right"> 
-EN: I am currently a student of the Bachelor of Information Systems at UFU (Federal University of Uberlândia), my goal is to specialize in the various programming languages, mainly Java, SQL, Python and C#, which are the most demanded and used in the current job market.
+  | introdução | introduction |
+  | - | - |
+  | PT: Atualmente sou estudante do Bacharelado em Sistemas De Informação pela UFU (Universidade Federal de Uberlândia), minha meta é me especializar nas diversas linguagens de programação, principalmente Java, SQL, Python e C#, que são as mais exigidas e usadas no atual mercado de trabalho. | EN: I am currently a student of the Bachelor of Information Systems at UFU (Federal University of Uberlândia), my goal is to specialize in the various programming languages, mainly Java, SQL, Python and C#, which are the most demanded and used in the current job market. |
   
  </div > 
 
