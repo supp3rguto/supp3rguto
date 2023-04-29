@@ -1,7 +1,5 @@
 <h1 align="center">
-    Welcome! Eu sou (I am): 
-    <a href="#">Augusto Ortigoso Barbosa</a>
-  </h1>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Welcome!;Bem+vindo!" alt="Typing SVG" /></a>
   
    <p align="left">
 PT: Atualmente sou estudante do Bacharelado em Sistemas De Informação pela UFU (Universidade Federal de Uberlândia), minha meta é me especializar nas diversas linguagens de programação, principalmente Java, SQL, Python e C#, que são as mais exigidas e usadas no atual mercado de trabalho.
