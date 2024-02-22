@@ -1,5 +1,5 @@
 <h1 align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=117&height=40&lines=     Welcome!;Bem+Vindo!" alt="Typing SVG" /></a></h1>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=117&height=40&lines=Welcome!;Bem+Vindo!" alt="Typing SVG" /></a></h1>
   
   | introdução | introduction |
   | - | - |
@@ -21,4 +21,16 @@
 <div align="center">  
   <img width="41%" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=supp3rguto&theme=tokyonight" /> 
   <img width="41%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supp3rguto&theme=tokyonight" />
+</div>
+
+</div > 
+
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
 </div>
