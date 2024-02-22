@@ -22,15 +22,3 @@
   <img width="41%" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=supp3rguto&theme=tokyonight" /> 
   <img width="41%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supp3rguto&theme=tokyonight" />
 </div>
-
-
-  ##
-  
-  ### INTERESSES (TAGS):
-
-- Web
-- Linux
-- Games
-- Bug Bounty
-- Desenvolvimento Mobile
-- Programação Orientada a Objeto
