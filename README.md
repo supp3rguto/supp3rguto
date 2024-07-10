@@ -12,8 +12,8 @@
   <br clear="both">
 
 <div align="center">  
-  <img width="41%" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=supp3rguto&theme=tokyonight" /> 
-  <img width="41%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supp3rguto&theme=tokyonight" />
+  <img width="50%" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=supp3rguto&theme=tokyonight" /> 
+  <img width="50%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supp3rguto&theme=tokyonight" />
 </div>
 
 </div > 
