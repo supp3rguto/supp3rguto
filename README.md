@@ -11,10 +11,11 @@
   
   <br clear="both">
 
-<div align="center">  
-  <img width="45%" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=supp3rguto&theme=tokyonight" /> 
-  <img width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supp3rguto&theme=tokyonight" />
-</div>
+<div>
+<a href="https://github.com/guigutox">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supp3rguto&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=supp3rguto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>   
 
 </div > 
 
