@@ -12,7 +12,7 @@
   <br clear="both">
 
 <div>
-<a href="https://github.com/guigutox">
+<a href="https://github.com/supp3rguto">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supp3rguto&layout=compact&langs_count=7&theme=algolia"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=supp3rguto&theme=algolia&show_icons=true"/>
 </div>   
