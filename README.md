@@ -14,10 +14,9 @@
 <div>
 <a href="https://github.com/supp3rguto">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supp3rguto&layout=compact&langs_count=7&theme=algolia"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=supp3rguto&theme=algolia&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=supp3rguto&theme=algolia&show_icons=true&include_all_commits=true&count_private=true"/>
 </div>   
 
-</div > 
 
 <div align="left" style="display: inline_block"><br>
   <img align="left" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
