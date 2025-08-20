@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  Um dDesenvolvedor Full Stack focado em criar soluções eficientes e escaláveis. Atualmente cursando <strong>Sistemas de Informação</strong> na <strong>Universidade Federal de Uberlândia (UFU)</strong>.
+  Um desenvolvedor Full Stack focado em criar soluções eficientes e escaláveis. Atualmente cursando <strong>Sistemas de Informação</strong> na <strong>Universidade Federal de Uberlândia (UFU)</strong>.
 </p>
 
 ---
