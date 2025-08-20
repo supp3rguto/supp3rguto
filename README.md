@@ -1,37 +1,44 @@
-<h1 align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=117&height=40&lines=Welcome!;Bem+Vindo!" alt="Typing SVG" /></a></h1>
-  
-  | introdução | introduction |
-  | - | - |
-  | PT: Atualmente sou estudante do Bacharelado em Sistemas De Informação pela UFU (Universidade Federal de Uberlândia), minha meta é me especializar em diversas linguagens de programação, entre elas, linguagens de alto nível como Java, Python e C#, ferramentas de desenvolvimento web e banco de dados SQL, que são bastante exigidas e usadas no atual mercado de trabalho. | EN: I am currently a Bachelor's student in Information Systems at UFU (Federal University of Uberlândia), my goal is to specialize in several programming languages, including high-level languages ​​such as Java, Python and C#, web development tools and database SQL, which is quite routine and used in today's job market. |
-      
-</div>
-      
-  ##
-  
-  <br clear="both">
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supp3rguto&layout=compact&langs_count=7&theme=tokyonight"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=supp3rguto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
- 
-
-
-<div align="left" style="display: inline_block"><br>
-  <img align="left" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="left" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="left" alt="Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
-  <img align="left" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="left" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="left" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="left" alt="Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
-  <img align="left" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="left" alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-
-   <div align="right">
-  <a href="https://www.linkedin.com/in/augusto-barbosa-769602194/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  />
+<h1 align="center">Olá, eu sou Augusto 👋</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/augusto-barbosa-769602194" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-      
-</div>
+  <a href="mailto:augustoortigosobarbosa@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="SEU-SITE" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4682B4?style=for-the-badge&logo=firefox&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  Um dDesenvolvedor Full Stack focado em criar soluções eficientes e escaláveis. Atualmente cursando <strong>Sistemas de Informação</strong> na <strong>Universidade Federal de Uberlândia (UFU)</strong>.
+</p>
+
+---
+
+### 🚀 Minhas Habilidades
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs,mysql,postgresql,js,react,ts,html,css,nextjs,vuejs&perline=7" />
+  </a>
+</p>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=supp3rguto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supp3rguto&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
+---
+
+### Sobre Mim
+
+- 🎓 Cursando **Sistemas de Informação** na UFU.
+- 💻 Tenho experiência em desenvolvimento **Backend** com Java/Spring Boot, Python/Django e Node.js, e em **Frontend** com JavaScript, React, e TypeScript.
+- 🌱 Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como desenvolvedor.
+- 📫 Como entrar em contato comigo: **augustoortigosobarbosa@gmail.com**
