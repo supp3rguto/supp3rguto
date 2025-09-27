@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs,mysql,postgresql,js,react,ts,html,css,nextjs,vuejs&perline=7" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,php,nodejs,mysql,postgresql,js,react,ts,html,css,nextjs,vuejs&perline=7" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=supp3rguto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supp3rguto&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supp3rguto&layout=compact&theme=dracula"/>
 </p>
 
 ---
@@ -39,6 +39,6 @@
 ### Sobre Mim
 
 - 🎓 Cursando **Sistemas de Informação** na UFU.
-- 💻 Tenho experiência em desenvolvimento **Backend** com Java/Spring Boot, Python/Django e Node.js, e em **Frontend** com JavaScript, React, e TypeScript.
+- 💻 Tenho experiência em desenvolvimento **Backend** com Java/Spring Boot, Python, PHP e Node.js, e em **Frontend** com JavaScript, React, e TypeScript.
 - 🌱 Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como desenvolvedor.
 - 📫 Como entrar em contato comigo: **augustoortigosobarbosa@gmail.com**
