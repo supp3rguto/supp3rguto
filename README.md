@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,mysql,postgresql,js,react,ts,angular,css,nextjs&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,mysql,postgresql,php,js,react,ts,angular,css,nextjs,wordpress&perline=7" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=supp3rguto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supp3rguto&layout=compact&theme=dracula&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supp3rguto&layout=compact&theme=dracula&langs_count=10"/>
 </p>
 
 ---
