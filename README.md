@@ -1,23 +1,11 @@
-<h1 align="center">Olá, eu sou Augusto 👋</h1>
+<h1 align="center">Hey, I'm Augusto 👋</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/augusto-barbosa-769602194" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:augustoortigosobarbosa@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="SEU-SITE" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4682B4?style=for-the-badge&logo=firefox&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
-  Um desenvolvedor Full Stack focado em criar soluções eficientes e escaláveis. Atualmente cursando <strong>Sistemas de Informação</strong> na <strong>Universidade Federal de Uberlândia (UFU)</strong>.
+  A Full Stack Developer focused on building efficient and scalable solutions. Currently pursuing a degree in <strong>Information Systems</strong> at the <strong>Federal University of Uberlândia (UFU)</strong>.
 </p>
 
 ---
 
-### 🚀 Minhas Habilidades
+### 🚀 My Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -27,7 +15,7 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 My GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=supp3rguto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -36,9 +24,18 @@
 
 ---
 
-### Sobre Mim
+### About Me
 
-- 🎓 Cursando **Sistemas de Informação** na UFU.
-- 💻 Tenho experiência em desenvolvimento **Backend** com Java/Spring Boot, Python, PHP e Node.js, e em **Frontend** com JavaScript, React, e TypeScript.
-- 🌱 Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como desenvolvedor.
-- 📫 Como entrar em contato comigo: **augustoortigosobarbosa@gmail.com**
+- 🎓 Studying **Information Systems** at UFU.  
+- 💻 Experienced in **Backend** development with Java/Spring Boot, Python, PHP, and Node.js, and in **Frontend** with JavaScript, React, and TypeScript.  
+- 🌱 Always seeking new challenges and opportunities to learn and grow as a developer.  
+- 📫 How to reach me: **augustoortigosobarbosa@gmail.com**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/augusto-barbosa-769602194" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:augustoortigosobarbosa@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
