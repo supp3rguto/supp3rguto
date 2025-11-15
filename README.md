@@ -19,7 +19,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=supp3rguto&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supp3rguto&layout=compact&theme=dracula&langs_count=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supp3rguto&layout=compact&theme=dracula&langs_count=10&exclude_repo=Data-Science-Performance-Analysis"/>
 </p>
 
 ---
