@@ -3,8 +3,6 @@
   A Full Stack Developer focused on building efficient and scalable solutions. Currently pursuing a degree in <strong>Information Systems</strong> at the <strong>Federal University of Uberlândia (UFU)</strong>.
 </p>
 
----
-
 ### 🚀 My Skills
 
 <p align="center">
@@ -12,9 +10,6 @@
     <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,postgresql,cs,kotlin,php,js,ts,html,css,nodejs,react,angular,vuejs,wordpress,mongodb,git,docker,&perline=10" />
   </a>
 </p>
- 
-
----
 
 ### 📊 My GitHub Stats
 
@@ -22,8 +17,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=supp3rguto&show_icons=true&theme=dracula&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supp3rguto&layout=compact&theme=dracula&langs_count=10&exclude_repo=Data-Science-Performance-Analysis"/>
 </p>
-
----
 
 ### About Me
 
