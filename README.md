@@ -9,9 +9,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,postgresql,cs,kotlin,php,js,ts,html,css,nodejs,react,angular,wordpress&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,postgresql,cs,kotlin,php,js,ts,html,css,nodejs,react,angular,vuejs,wordpress,mongodb,git,docker,&perline=10" />
   </a>
 </p>
+ 
 
 ---
 
