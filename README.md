@@ -1,11 +1,8 @@
 <h1 align="center">Hey, I'm Augusto 👋</h1>
-<p align="center">
-  A Full Stack Developer focused on building efficient and scalable solutions. Currently pursuing a degree in <strong>Information Systems</strong> at the <strong>Federal University of Uberlândia (UFU)</strong>.
-</p>
 
 ### 🚀 My Skills
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,postgresql,cs,kotlin,php,js,ts,html,css,nodejs,react,angular,vuejs,wordpress,mongodb,git,docker,&perline=10" />
   </a>
