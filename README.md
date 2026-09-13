@@ -1,4 +1,4 @@
-<h1 align="center">Augusto Barbosa</h1>
+<h1 align="center">Augusto Ortigoso Barbosa</h1>
 <h3 align="center">Software Engineer | Data Infrastructure | NLP Researcher</h3>
 
 <p align="center">
@@ -14,7 +14,6 @@
   </a>
 </p>
 
----
 
 ### 🔬 Research & Academic Focus
 I am currently completing my Bachelor's degree in Information Systems at Universidade Federal de Uberlândia (UFU). My academic trajectory is deeply rooted in computational research, specifically preparing for a Master's degree (Stricto Sensu) in Computer Science with a focus on Artificial Intelligence.
@@ -28,25 +27,18 @@ My professional and technical focus lies in the "engine room" of software engine
 * **Data Pipelines:** Architecting reliable ETL/ELT pipelines for structured and unstructured data integration.
 * **Core Languages:** Python, Java (Spring Boot), and GoLang (focusing on concurrency and low-level memory management).
 
----
-
 ### 🛠️ Tech Stack & Arsenal
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,python,java,spring,cs,dotnet,postgresql,mysql,sqlite,docker,linux,git,aws" />
+    <img src="https://skillicons.dev/icons?i=python,java,spring,javascript,typescript,go,cs,dotnet,postgresql,mysql,sqlite,docker,linux,git,aws" />
   </a>
 </p>
 
----
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=supp3rguto&theme=dracula" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=supp3rguto&theme=dracula" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=supp3rguto&theme=dracula" alt="Most Commits Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=supp3rguto&theme=dracula" alt="GitHub Streak" />
 </p>
