@@ -5,15 +5,6 @@
   Designing resilient backend architectures, optimizing data-intensive pipelines, and researching the state-of-the-art in Artificial Intelligence. 
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/augusto-barbosa-769602194" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:augustoortigosobarbosa@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
 
 ### 🔬 Research & Academic Focus
 I am currently completing my Bachelor's degree in Information Systems at Universidade Federal de Uberlândia (UFU). My academic trajectory is deeply rooted in computational research, specifically preparing for a Master's degree (Stricto Sensu) in Computer Science with a focus on Artificial Intelligence.
@@ -31,7 +22,7 @@ My professional and technical focus lies in the "engine room" of software engine
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,spring,javascript,typescript,go,cs,dotnet,postgresql,mysql,sqlite,docker,linux,git,aws" />
+    <img src="https://skillicons.dev/icons?i=python,java,spring,javascript,typescript,go,postgresql,mysql,sqlite,docker,kubernetes,linux,git,aws" />
   </a>
 </p>
 
